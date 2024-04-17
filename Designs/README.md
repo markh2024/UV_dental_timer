@@ -455,7 +455,12 @@ void main()
 
 # The  following is the hex file
 
-If  you cant compile the code then ive included this for you as well 
+If  you cant compile the code then ive included this for you and this is where knowing how this works and what that hex file  both  contains and does  my well come into play 
+
+
+I wont be telling you why  but you can work all of that out youself  which  now is going to become  very important to some  because  you will  not know what is contained within 
+
+Your true meaning of , "Message in a  bottle "  , Your very next enigma , the art of modern day warefare  
 
 ```
 :02000000E228F4
