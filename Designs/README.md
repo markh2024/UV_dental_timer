@@ -460,8 +460,7 @@ If  you cant compile the code then ive included this for you and this is where k
 
 I wont be telling you why  but you can work all of that out youself  which  now is going to become  very important to some  because  you will  not know what is contained within 
 
-Your true meaning of , "Message in a  bottle "  , Your very next enigma , the art of modern day warefare  
-
+Your true meaning of , "Message in a  bottle "  , Your very next enigma , the art of modern day warefare and I bet that has really  got you thinking 
 ```
 :02000000E228F4
 :08000800DF00030E8312A000CB
